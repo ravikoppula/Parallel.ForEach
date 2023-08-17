@@ -1,0 +1,5 @@
+D:\recycle-bin\Parallel.ForEach\Parallel.ForEach\obj\Debug\net7.0\Parallel.ForEach.csproj.AssemblyReference.cache
+D:\recycle-bin\Parallel.ForEach\Parallel.ForEach\obj\Debug\net7.0\Parallel.ForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\recycle-bin\Parallel.ForEach\Parallel.ForEach\obj\Debug\net7.0\Parallel.ForEach.AssemblyInfoInputs.cache
+D:\recycle-bin\Parallel.ForEach\Parallel.ForEach\obj\Debug\net7.0\Parallel.ForEach.AssemblyInfo.cs
+D:\recycle-bin\Parallel.ForEach\Parallel.ForEach\obj\Debug\net7.0\Parallel.ForEach.csproj.CoreCompileInputs.cache

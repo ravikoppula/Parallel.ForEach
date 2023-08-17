@@ -1,0 +1,15 @@
+D:\recycle-bin\Parallel.ForEach\Parallel_ForEach\bin\Debug\net7.0\Parallel_ForEach.exe
+D:\recycle-bin\Parallel.ForEach\Parallel_ForEach\bin\Debug\net7.0\Parallel_ForEach.deps.json
+D:\recycle-bin\Parallel.ForEach\Parallel_ForEach\bin\Debug\net7.0\Parallel_ForEach.runtimeconfig.json
+D:\recycle-bin\Parallel.ForEach\Parallel_ForEach\bin\Debug\net7.0\Parallel_ForEach.dll
+D:\recycle-bin\Parallel.ForEach\Parallel_ForEach\bin\Debug\net7.0\Parallel_ForEach.pdb
+D:\recycle-bin\Parallel.ForEach\Parallel_ForEach\obj\Debug\net7.0\Parallel_ForEach.csproj.AssemblyReference.cache
+D:\recycle-bin\Parallel.ForEach\Parallel_ForEach\obj\Debug\net7.0\Parallel_ForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\recycle-bin\Parallel.ForEach\Parallel_ForEach\obj\Debug\net7.0\Parallel_ForEach.AssemblyInfoInputs.cache
+D:\recycle-bin\Parallel.ForEach\Parallel_ForEach\obj\Debug\net7.0\Parallel_ForEach.AssemblyInfo.cs
+D:\recycle-bin\Parallel.ForEach\Parallel_ForEach\obj\Debug\net7.0\Parallel_ForEach.csproj.CoreCompileInputs.cache
+D:\recycle-bin\Parallel.ForEach\Parallel_ForEach\obj\Debug\net7.0\Parallel_ForEach.dll
+D:\recycle-bin\Parallel.ForEach\Parallel_ForEach\obj\Debug\net7.0\refint\Parallel_ForEach.dll
+D:\recycle-bin\Parallel.ForEach\Parallel_ForEach\obj\Debug\net7.0\Parallel_ForEach.pdb
+D:\recycle-bin\Parallel.ForEach\Parallel_ForEach\obj\Debug\net7.0\Parallel_ForEach.genruntimeconfig.cache
+D:\recycle-bin\Parallel.ForEach\Parallel_ForEach\obj\Debug\net7.0\ref\Parallel_ForEach.dll
